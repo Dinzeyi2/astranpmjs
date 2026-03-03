@@ -8,7 +8,7 @@ const chalk      = require("chalk");
 
 // ── Config ────────────────────────────────────────────────────────────────────
 const CODEASTRA_URL = process.env.CODEASTRA_URL
-  || "https://codeastra-production-4ce9.up.railway.app";
+  || "https://app.codeastra.dev";
 
 program
   .name("codeastra")
